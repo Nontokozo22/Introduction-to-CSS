@@ -8,3 +8,16 @@ background-color: grey;
     text-decoration: underline;
     text-align: center;
 }
+
+#lunar-par{
+    text-align: center;
+    color: white;
+}
+
+img{
+  display: block;
+  padding: 20px 30px;
+  margin: 20px auto;  
+  height: 250px;
+  
+}
