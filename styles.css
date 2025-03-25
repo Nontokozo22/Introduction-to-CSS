@@ -21,3 +21,8 @@ img{
   height: 250px;
   
 }
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
